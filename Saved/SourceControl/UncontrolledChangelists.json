@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/NetWorkStudy/Content/BluePrints/BP_GameMode.uasset",
+				"C:/Work/NetWorkStudy/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Work/NetWorkStudy/Content/BluePrints/BP_Box.uasset",
+				"C:/Work/NetWorkStudy/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/GB/HQHSGRT5PM3SNMPOHQ3MR7.uasset",
+				"C:/Work/NetWorkStudy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Work/NetWorkStudy/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/EC/X5LYH6E3SXF9NR3VNQA73Z.uasset",
+				"C:/Work/NetWorkStudy/Content/BluePrints/NewBlueprint.uasset",
+				"C:/Work/NetWorkStudy/Content/BluePrints/BP_Set.uasset",
+				"C:/Work/NetWorkStudy/Content/BluePrints/BP_Stat.uasset",
+				"C:/Work/NetWorkStudy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Work/NetWorkStudy/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset"
+			]
+		}
+	]
+}
