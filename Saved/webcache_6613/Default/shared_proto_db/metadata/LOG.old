@@ -1,2 +1,3 @@
-2026/05/06-13:04:00.756 2504 Creating DB C:\Work\NetWorkStudy\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/05/06-13:04:00.800 2504 Reusing MANIFEST C:\Work\NetWorkStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/12-09:05:07.887 67b0 Reusing MANIFEST C:\Work\NetWorkStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/12-09:05:07.897 67b0 Recovering log #3
+2026/05/12-09:05:07.898 67b0 Reusing old log C:\Work\NetWorkStudy\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
